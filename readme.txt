@@ -11,4 +11,4 @@ tian jia
 
 create a branch
 
-create a new branch quick & simple;
+create a new branch is quick AND simple;
