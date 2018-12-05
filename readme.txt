@@ -10,3 +10,5 @@ zai xin jia yi hang
 tian jia 
 
 create a branch
+
+create a new branch is quick AND simple;
